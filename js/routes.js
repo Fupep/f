@@ -23,11 +23,35 @@ var routes = [
     url: './pages/profile.html',
     name: 'page-profile',
   },
-  // Single
+  // Property
   {
-    path: '/single/',
-    url: './pages/single.html',
-    name: 'page-single',
+    path: '/property/',
+    url: './pages/property.html',
+    name: 'page-property',
+  },
+  // Fun
+  {
+    path: '/fun/',
+    url: './pages/fun.html',
+    name: 'page-fun',
+  },
+  // Information
+  {
+    path: '/info/',
+    url: './pages/info.html',
+    name: 'page-info',
+  },
+  // Economic
+  {
+    path: '/eco/',
+    url: './pages/eco.html',
+    name: 'page-eco',
+  },
+  // Chat
+  {
+    path: '/chat/',
+    url: './pages/chat.html',
+    name: 'page-chat',
   },
   // Blog Style 1
   {
